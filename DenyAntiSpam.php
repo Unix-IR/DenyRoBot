@@ -10,7 +10,7 @@ Dev ID : @NOBLEST
 GitAdress : Github.com/NobLestDev/DenyAntiSpam
 ─═ঊঈঊঈ═─╯
 */
-define('API_KEY','توکن شما');
+define('API_KEY','286582519:AAHtDO8pJJzH-7WFxdcWg4T9M6u3vp6Z1sY');
 //-----------------------------------------------------------------------------------------
 //فانکشن MrPHPBot :
 function MrPHPBot($method,$datas=[]){
